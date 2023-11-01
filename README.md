@@ -7,10 +7,10 @@
 <br/>
 
 ## Result Menghitung Gaji Karyawan
-<img src="hasil/menghitung-gaji-karyawan.png">
+<img src="hasil/menghitung-gaji-karyawan.png.png">
 
 ## Result Penjualan Barang
-<img src="hasil/penjualan-barang.png">
+<img src="hasil/penjualan-barang.png.png">
 
 ## Result Menghitung Deret N
-<img src="hasil/menghitung-deret-n.png">
+<img src="hasil/menghitung-deret-n.png.png">
