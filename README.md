@@ -7,7 +7,7 @@
 <br/>
 
 ## Result Menghitung Gaji Karyawan
-<img src="hasil/menghitung-gaji-karyawan.png.png">
+<img src="hasil/menghitung-gaji karyawan.png.png">
 
 ## Result Penjualan Barang
 <img src="hasil/penjualan-barang.png.png">
