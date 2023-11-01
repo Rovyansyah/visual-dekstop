@@ -2,7 +2,7 @@
 
 **Nama   : _Rovyansyah Mulia Pratama_** <br/>
 **NIM    : 312110603** <br/>
-**Kelas  : TI . 21 . A3** <br/>
+**Kelas  : TI . 21 . A . 3** <br/>
 **Matkul : Pemograman Visual Dekstop** <br/>
 <br/>
 
